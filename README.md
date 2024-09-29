@@ -18,3 +18,5 @@ Visual Studio 2022, EasyX
 ![alt text](image-1.png)  
 ![alt text](image-2.png)  
 ![alt text](image-3.png)
+
+The start interface is accessed through mouse operation to enter the game interface. During the game, click on the space and extend the hook to grab items. Items have different scores according to large rough stones, small rough stones, and mora, and the score increases with the grabbed item. When the score exceeds 450, victory is obtained.
